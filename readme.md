@@ -5,6 +5,15 @@ Laravel Framework 5.5.21 <br />
 composer require "laravelcollective/html":"^5.4.0" <br />
 5.5.1 <br />
 
+bootstrap <br />
+4.0.0-beta.2 <br />
+
+jquery <br />
+3.2.1 <br />
+
+font_awesome <br />
+4.7.0 <br />
+
 
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>

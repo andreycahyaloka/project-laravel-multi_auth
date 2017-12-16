@@ -1,9 +1,9 @@
-composer create-project --prefer-dist laravel/laravel blog </ br>
-php artisan --version </ br>
-Laravel Framework 5.5.21 </ br>
-</ br>
-composer require "laravelcollective/html":"^5.4.0" </ br>
-5.5.1 </ br>
+composer create-project --prefer-dist laravel/laravel blog 
+php artisan --version 
+Laravel Framework 5.5.21 
+ 
+composer require "laravelcollective/html":"^5.4.0" 
+5.5.1 
 
 
 

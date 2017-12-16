@@ -1,3 +1,12 @@
+composer create-project --prefer-dist laravel/laravel blog
+php artisan --version
+Laravel Framework 5.5.21
+
+composer require "laravelcollective/html":"^5.4.0"
+5.5.1
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
